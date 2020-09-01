@@ -1,1 +1,2 @@
-# Python-Live-Weather-Notification-App-
+# Python Live Weather Notification App
+# Window Notification
